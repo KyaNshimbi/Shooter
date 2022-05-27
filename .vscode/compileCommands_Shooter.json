@@ -1,0 +1,127 @@
+[
+    {
+        "file": "E:\\\\Unreal\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\BTTask_Shoot.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "E:\\Epic\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "E:\\\\Unreal\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\BTTask_Shoot.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "E:\\Epic\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "E:\\\\Unreal\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\Gun.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "E:\\Epic\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "E:\\\\Unreal\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\Gun.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "E:\\Epic\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "E:\\\\Unreal\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\MyBTTask_ClearBlackboardValue.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "E:\\Epic\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "E:\\\\Unreal\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\MyBTTask_ClearBlackboardValue.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "E:\\Epic\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "E:\\\\Unreal\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\MyPawn.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "E:\\Epic\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "E:\\\\Unreal\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\MyPawn.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "E:\\Epic\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "E:\\\\Unreal\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\Shooter.Build.cs",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "E:\\Epic\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "E:\\\\Unreal\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\Shooter.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "E:\\Epic\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "E:\\\\Unreal\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\Shooter.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "E:\\Epic\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "E:\\\\Unreal\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\ShooterAIController.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "E:\\Epic\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "E:\\\\Unreal\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\ShooterAIController.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "E:\\Epic\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "E:\\\\Unreal\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\ShooterCharacter.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "E:\\Epic\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "E:\\\\Unreal\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\ShooterCharacter.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "E:\\Epic\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "E:\\\\Unreal\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\ShooterGameModeBase.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "E:\\Epic\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "E:\\\\Unreal\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\ShooterGameModeBase.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "E:\\Epic\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "e:\\\\Unreal\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\BTService_PlayerLocation.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "E:\\Epic\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "e:\\\\Unreal\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\BTService_PlayerLocation.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "E:\\Epic\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "e:\\\\Unreal\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\BTService_PlayerLocationIfSeen.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "E:\\Epic\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "e:\\\\Unreal\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\BTService_PlayerLocationIfSeen.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "E:\\Epic\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "e:\\\\Unreal\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\KillThemAllGameMode.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "E:\\Epic\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "e:\\\\Unreal\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\KillThemAllGameMode.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "E:\\Epic\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "e:\\\\Unreal\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\ShooterPlayerController.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "E:\\Epic\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "e:\\\\Unreal\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\ShooterPlayerController.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "E:\\Epic\\UE_4.27\\Engine\\Source"
+    }
+]
